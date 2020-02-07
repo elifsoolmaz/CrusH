@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b85e97a0-4f9b-4421-8143-59d9384747a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/World.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/Dot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/Board.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/CameraScalar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/LevelSelectManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/FindMatches.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game Data Scripts/GameData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/EndGameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/GoalManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/PauseManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/69/62d20ea2/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/LevelButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/GameStartManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ConfirmPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/GoalPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/BackToSplash.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/FadePanelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/9b/11887af9/HeaderAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/BackgroundTile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/HintManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraScaler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraScalar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundTile1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HintManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FindMatches.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GoalPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundTile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FadePanelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/World.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EndGameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Board.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GoalManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game Data Scripts/GameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/LevelButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ConfirmPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/CameraScalar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/FindMatches.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameStartManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PauseManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/LevelSelectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/BackToSplash.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/Board.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/EndGameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base Game Scripts/Dot.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WydrcHbniXhtEuyhgkYQKRvQ6T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b85e97a0-4f9b-4421-8143-59d9384747a0" name="Default Changelist" comment="" />
+      <created>1580125968622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580125968622</updated>
+      <workItem from="1580125972017" duration="14047000" />
+      <workItem from="1580194795864" duration="1358000" />
+      <workItem from="1580196156786" duration="27314000" />
+      <workItem from="1580281450152" duration="21837000" />
+      <workItem from="1580368630418" duration="1831000" />
+      <workItem from="1580370493642" duration="130000" />
+      <workItem from="1580370644538" duration="844000" />
+      <workItem from="1580374559802" duration="17041000" />
+      <workItem from="1580454634062" duration="6106000" />
+      <workItem from="1580468605173" duration="15134000" />
+      <workItem from="1580713062142" duration="19399000" />
+      <workItem from="1580737491431" duration="8016000" />
+      <workItem from="1580801081953" duration="6035000" />
+      <workItem from="1580819766493" duration="2878000" />
+      <workItem from="1581064467273" duration="87000" />
+      <workItem from="1581081966494" duration="1520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1580735812205">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1580735812205" />
+  </component>
+</project>

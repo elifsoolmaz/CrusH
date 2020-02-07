@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\elifsolmaz\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\elifsolmaz\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Candy.1033762937.00" t="ExcludeRecursive" />
+    <e p="C:\Users\elifsolmaz\Desktop\Elif\Candy" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="PetsPack" t="Include">
+          <e p="EditorPopup" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Autorun.cs" t="Include" />
+              <e p="DGChecker.cs" t="Include" />
+              <e p="Welcome.cs" t="Include" />
+            </e>
+            <e p="EditorScripts" t="Include">
+              <e p="OpenMoreGames.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="GitHub" t="Include">
+            <e p="Editor" t="Include">
+              <e p="credits.txt" t="Include" />
+              <e p="eula.txt" t="Include" />
+              <e p="ExtensionLoader.cs" t="Include" />
+              <e p="UnityAPIWrapper.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Base Game Scripts" t="Include">
+            <e p="BackgroundTile.cs" t="Include" />
+            <e p="Board.cs" t="Include" />
+            <e p="CameraScalar.cs" t="Include" />
+            <e p="Dot.cs" t="Include" />
+            <e p="EndGameManager.cs" t="Include" />
+            <e p="FadePanelController.cs" t="Include" />
+            <e p="FindMatches.cs" t="Include" />
+            <e p="GoalManager.cs" t="Include" />
+            <e p="GoalPanel.cs" t="Include" />
+            <e p="HintManager.cs" t="Include" />
+            <e p="ScoreManager.cs" t="Include" />
+            <e p="SoundManager.cs" t="Include" />
+          </e>
+          <e p="Game Data Scripts" t="Include">
+            <e p="GameData.cs" t="Include" />
+          </e>
+          <e p="Scriptable Objects" t="Include">
+            <e p="Level.cs" t="Include" />
+            <e p="LevelSelectManager.cs" t="Include" />
+            <e p="World.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="BackToSplash.cs" t="Include" />
+            <e p="ConfirmPanel.cs" t="Include" />
+            <e p="GameStartManager.cs" t="Include" />
+            <e p="LevelButton.cs" t="Include" />
+            <e p="PauseManager.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Candy.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c565a5ec2110e344f8b14a76f0469cc5, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  width: 5
+  height: 7
+  boardLayout: []
+  dots:
+  - {fileID: 155982969768170544, guid: 280f062fd24fbc14697d8308b19b81b4, type: 3}
+  - {fileID: 5195827137577057880, guid: 7176675772c512b4598070b49a5bae21, type: 3}
+  - {fileID: 1605459919548999235, guid: fa1106e0dfbf3db43bb604699fe8635b, type: 3}
+  scoreGoals: 640000009001000058020000
+  EndGameRequirements:
+    gameType: 0
+    counterValue: 25
+  levelGoals:
+  - numberNeeded: 10
+    numberCollected: 0
+    goalSprite: {fileID: 21300000, guid: 0e210ef5ed9726c4c82ae5e8e1159dde, type: 3}
+    matchvalue: Pig

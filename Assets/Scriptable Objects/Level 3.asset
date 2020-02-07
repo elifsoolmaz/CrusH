@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c565a5ec2110e344f8b14a76f0469cc5, type: 3}
+  m_Name: Level 3
+  m_EditorClassIdentifier: 
+  width: 7
+  height: 8
+  boardLayout:
+  - x: 5
+    y: 5
+    tileKind: 0
+  - x: 4
+    y: 4
+    tileKind: 0
+  - x: 3
+    y: 3
+    tileKind: 3
+  - x: 3
+    y: 4
+    tileKind: 2
+  - x: 2
+    y: 4
+    tileKind: 2
+  - x: 4
+    y: 5
+    tileKind: 1
+  - x: 4
+    y: 6
+    tileKind: 1
+  dots:
+  - {fileID: 2790060508295237062, guid: 6339fe44b4237cf4c9e1b0dabe0c50dd, type: 3}
+  - {fileID: 969829045322071573, guid: 2426afb16373a554987eec70cfdd16dd, type: 3}
+  - {fileID: 1917634044970409960, guid: 4645d12c81009af4f935ce8acc7df245, type: 3}
+  - {fileID: 9052111810006987689, guid: 9efdfab73a5b03e4c8796b6fc859635d, type: 3}
+  - {fileID: 6682725742105575824, guid: 8c9f0e868fa13594683b89877b082c01, type: 3}
+  - {fileID: 155982969768170544, guid: 280f062fd24fbc14697d8308b19b81b4, type: 3}
+  scoreGoals: e8030000
+  EndGameRequirements:
+    gameType: 1
+    counterValue: 120
+  levelGoals:
+  - numberNeeded: 5
+    numberCollected: 10
+    goalSprite: {fileID: 21300000, guid: e54e1adaa2f5b0147a5ce820a6788f12, type: 3}
+    matchvalue: Duck
+  - numberNeeded: 1
+    numberCollected: 1
+    goalSprite: {fileID: 21300000, guid: 9aa02579e42824cf08f32c3514102b24, type: 3}
+    matchvalue: Lock
